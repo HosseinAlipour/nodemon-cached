@@ -1,0 +1,10 @@
+{
+  "name": "nodemon-cached",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "chokidar": "^3.5.2"
+  }
+}
